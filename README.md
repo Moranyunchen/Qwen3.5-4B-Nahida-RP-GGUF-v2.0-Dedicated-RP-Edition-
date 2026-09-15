@@ -82,8 +82,8 @@ v2.0 提供了 4 种精度的 GGUF 量化版本，涵盖从低配手机到高配
 
 | 运行平台 (Platform) | 核心硬件 (Hardware Specs) | 客户端/后端 (Backend) | 推荐量化版本 | 实测速度 (Inference Speed) |
 | :--- | :--- | :--- | :--- | :--- |
-| **桌面端 (Desktop)** | NVIDIA GeForce RTX 5070 Ti | LM Studio / KoboldCPP | **Q5_K_M** / Q4_K_M | **X** tokens/s |
-| **移动端 (Mobile)** | Qualcomm Snapdragon 8 Gen 2 | PocketPal / Termux | **Q4_K_M** / Q3_K_M | **X** tokens/s |
+| **桌面端 (Desktop)** | NVIDIA GeForce RTX 5070 Ti | LM Studio / KoboldCPP | **Q5_K_M** / Q4_K_M | **90~160** tokens/s |
+| **移动端 (Mobile)** | Qualcomm Snapdragon 8 Gen 2 | PocketPal / Termux | **Q4_K_M** / Q3_K_M | **5~8** tokens/s |
 
 > **💡 最佳使用建议**：在对话中称呼她为 **“妲妲”**（例如：`“妲妲，你今天在净善宫做了什么？”`），能够最大化提升模型的语气还原度与拟真效果。
 
