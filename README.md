@@ -7,6 +7,7 @@
 [![Character: Nahida](https://img.shields.io/badge/Character-Nahida_纳西妲-green.svg)](#)
 
 ---
+huggingface开源地址：https://huggingface.co/Moranyunchen/Qwen3.5-4B-Nahida-RP-V2-GGUF
 
 ### 🚨 严格非商业许可声明 (Strict Non-Commercial License Notice)
 
