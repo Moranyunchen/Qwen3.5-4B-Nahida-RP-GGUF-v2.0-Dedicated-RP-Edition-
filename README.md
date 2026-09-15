@@ -1,21 +1,3 @@
-# Qwen3.5-4B-Nahida-RP-GGUF-v2.0-Dedicated-RP-Edition
----
-license: cc-by-nc-4.0
-language:
-- zh
-tags:
-- not-for-all-audiences
-- Genshin Impact
-- Nahida
-- nahida
-- 纳西妲
-- 角色扮演
-- 原神
-- roleplay
-base_model:
-- Qwen/Qwen3.5-4B
-pipeline_tag: text-generation
----
 # Qwen3.5-4B-Nahida-RP-GGUF (v2.0 Dedicated RP Edition) Model Card
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-red.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
