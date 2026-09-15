@@ -9,6 +9,14 @@
 ---
 huggingface开源地址：https://huggingface.co/Moranyunchen/Qwen3.5-4B-Nahida-RP-V2-GGUF
 
+百度网盘开源地址：通过百度网盘分享的文件：Moranyun…
+链接:https://pan.baidu.com/s/1ovi0XQkCvR-zAsGSeqtKlQ?pwd=g8ty 
+复制这段内容打开「百度网盘APP 即可获取」
+
+夸克网盘开源地址：我用夸克网盘给你分享了「Qwen3」等2项，点击链接或复制整段内容，打开「夸克APP」即可获取。
+/~ae6a3atEZ9~:/
+链接：https://pan.quark.cn/s/44df38126db2
+
 ### 🚨 严格非商业许可声明 (Strict Non-Commercial License Notice)
 
 本项目遵循 **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)** 协议，并附加以下强约束条款。**严禁任何形式的商业化行为**，违者将保留追究法律责任的权利。商业禁令包括但不限于：
